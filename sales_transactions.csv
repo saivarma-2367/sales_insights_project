@@ -1,0 +1,501 @@
+Order ID,Date,Product,Category,Quantity,Unit Price,Total Sales,Customer ID,Region,Payment Method
+1000,2024-01-01,Tablet,Electronics,1,409,409,10127,West,Debit Card
+1001,2024-01-02,Smartwatch,Electronics,2,949,1898,10084,East,Cash
+1002,2024-01-03,Headphones,Electronics,2,330,660,10041,West,Cash
+1003,2024-01-04,Smartwatch,Electronics,1,1268,1268,10099,North,Credit Card
+1004,2024-01-05,Smartwatch,Electronics,3,1268,3804,10040,North,Credit Card
+1005,2024-01-06,Smartphone,Electronics,2,716,1432,10165,West,Cash
+1006,2024-01-07,Headphones,Electronics,2,142,284,10033,North,Cash
+1007,2024-01-08,Headphones,Electronics,2,721,1442,10016,South,Cash
+1008,2024-01-09,Headphones,Electronics,1,110,110,10164,South,Debit Card
+1009,2024-01-10,Smartwatch,Electronics,4,683,2732,10152,West,Cash
+1010,2024-01-11,Tablet,Electronics,2,1124,2248,10121,South,Credit Card
+1011,2024-01-12,Headphones,Electronics,4,1476,5904,10075,South,Debit Card
+1012,2024-01-13,Monitor,Electronics,3,1078,3234,10086,East,Cash
+1013,2024-01-14,Smartwatch,Electronics,2,653,1306,10116,East,Credit Card
+1014,2024-01-15,Smartphone,Electronics,2,731,1462,10105,South,Debit Card
+1015,2024-01-16,Tablet,Electronics,3,583,1749,10085,West,Cash
+1016,2024-01-17,Monitor,Electronics,2,1478,2956,10026,East,Cash
+1017,2024-01-18,Monitor,Electronics,4,887,3548,10056,North,Cash
+1018,2024-01-19,Smartphone,Electronics,1,694,694,10030,North,Debit Card
+1019,2024-01-20,Tablet,Electronics,4,282,1128,10133,North,Credit Card
+1020,2024-01-21,Smartwatch,Electronics,1,573,573,10167,West,Credit Card
+1021,2024-01-22,Laptop,Electronics,1,395,395,10097,South,PayPal
+1022,2024-01-23,Tablet,Electronics,4,1119,4476,10011,North,Cash
+1023,2024-01-24,Smartphone,Electronics,4,595,2380,10052,West,PayPal
+1024,2024-01-25,Monitor,Electronics,4,1151,4604,10198,East,PayPal
+1025,2024-01-26,Smartwatch,Electronics,4,1146,4584,10137,South,Credit Card
+1026,2024-01-27,Tablet,Electronics,3,843,2529,10172,East,Debit Card
+1027,2024-01-28,Laptop,Electronics,2,298,596,10144,West,Debit Card
+1028,2024-01-29,Laptop,Electronics,1,96,96,10153,North,Credit Card
+1029,2024-01-30,Headphones,Electronics,4,1194,4776,10189,North,Debit Card
+1030,2024-01-31,Headphones,Electronics,4,263,1052,10121,West,PayPal
+1031,2024-02-01,Smartphone,Electronics,4,288,1152,10045,North,Cash
+1032,2024-02-02,Tablet,Electronics,3,1129,3387,10063,South,Credit Card
+1033,2024-02-03,Tablet,Electronics,4,399,1596,10129,West,Cash
+1034,2024-02-04,Monitor,Electronics,4,156,624,10053,East,Debit Card
+1035,2024-02-05,Monitor,Electronics,4,880,3520,10106,West,Cash
+1036,2024-02-06,Monitor,Electronics,2,97,194,10192,South,Debit Card
+1037,2024-02-07,Headphones,Electronics,3,386,1158,10050,South,Debit Card
+1038,2024-02-08,Tablet,Electronics,4,1099,4396,10180,West,PayPal
+1039,2024-02-09,Tablet,Electronics,1,853,853,10035,West,Debit Card
+1040,2024-02-10,Laptop,Electronics,1,1330,1330,10114,North,PayPal
+1041,2024-02-11,Headphones,Electronics,1,57,57,10025,South,PayPal
+1042,2024-02-12,Smartwatch,Electronics,3,674,2022,10028,West,PayPal
+1043,2024-02-13,Headphones,Electronics,3,1326,3978,10148,West,Credit Card
+1044,2024-02-14,Smartwatch,Electronics,1,768,768,10010,South,Credit Card
+1045,2024-02-15,Laptop,Electronics,4,352,1408,10039,West,Debit Card
+1046,2024-02-16,Smartphone,Electronics,3,688,2064,10010,North,PayPal
+1047,2024-02-17,Tablet,Electronics,1,105,105,10163,South,Credit Card
+1048,2024-02-18,Laptop,Electronics,1,775,775,10112,North,PayPal
+1049,2024-02-19,Tablet,Electronics,4,575,2300,10186,North,Cash
+1050,2024-02-20,Monitor,Electronics,2,523,1046,10038,North,Cash
+1051,2024-02-21,Smartphone,Electronics,3,77,231,10053,North,Cash
+1052,2024-02-22,Smartphone,Electronics,4,127,508,10097,South,Debit Card
+1053,2024-02-23,Laptop,Electronics,1,1289,1289,10054,North,PayPal
+1054,2024-02-24,Smartphone,Electronics,1,1459,1459,10110,North,Cash
+1055,2024-02-25,Smartwatch,Electronics,4,414,1656,10151,West,Credit Card
+1056,2024-02-26,Smartphone,Electronics,3,715,2145,10149,South,Cash
+1057,2024-02-27,Tablet,Electronics,2,575,1150,10068,South,Cash
+1058,2024-02-28,Tablet,Electronics,2,748,1496,10055,East,Cash
+1059,2024-02-29,Tablet,Electronics,1,1385,1385,10032,South,Debit Card
+1060,2024-03-01,Tablet,Electronics,3,932,2796,10035,South,Credit Card
+1061,2024-03-02,Smartwatch,Electronics,2,1080,2160,10147,East,PayPal
+1062,2024-03-03,Headphones,Electronics,3,1076,3228,10080,South,Credit Card
+1063,2024-03-04,Monitor,Electronics,3,968,2904,10189,South,PayPal
+1064,2024-03-05,Laptop,Electronics,1,799,799,10108,South,Debit Card
+1065,2024-03-06,Tablet,Electronics,2,412,824,10153,South,Debit Card
+1066,2024-03-07,Smartphone,Electronics,4,1347,5388,10193,East,Debit Card
+1067,2024-03-08,Tablet,Electronics,1,855,855,10072,South,Debit Card
+1068,2024-03-09,Smartphone,Electronics,2,788,1576,10039,South,PayPal
+1069,2024-03-10,Monitor,Electronics,2,1088,2176,10016,East,Cash
+1070,2024-03-11,Monitor,Electronics,2,1265,2530,10128,West,PayPal
+1071,2024-03-12,Monitor,Electronics,2,534,1068,10060,North,Credit Card
+1072,2024-03-13,Smartphone,Electronics,2,77,154,10170,West,Debit Card
+1073,2024-03-14,Tablet,Electronics,3,763,2289,10103,East,Debit Card
+1074,2024-03-15,Monitor,Electronics,1,1112,1112,10041,North,Credit Card
+1075,2024-03-16,Smartwatch,Electronics,3,1346,4038,10024,East,PayPal
+1076,2024-03-17,Smartphone,Electronics,4,1304,5216,10038,East,Cash
+1077,2024-03-18,Smartphone,Electronics,2,135,270,10034,South,Cash
+1078,2024-03-19,Tablet,Electronics,1,175,175,10130,North,Credit Card
+1079,2024-03-20,Smartphone,Electronics,2,861,1722,10107,South,Cash
+1080,2024-03-21,Smartphone,Electronics,1,586,586,10171,North,PayPal
+1081,2024-03-22,Monitor,Electronics,3,194,582,10178,East,PayPal
+1082,2024-03-23,Tablet,Electronics,1,1285,1285,10101,East,Credit Card
+1083,2024-03-24,Monitor,Electronics,4,74,296,10097,West,PayPal
+1084,2024-03-25,Monitor,Electronics,4,1467,5868,10011,North,Debit Card
+1085,2024-03-26,Tablet,Electronics,1,116,116,10018,South,Credit Card
+1086,2024-03-27,Laptop,Electronics,1,282,282,10100,West,PayPal
+1087,2024-03-28,Monitor,Electronics,1,158,158,10043,West,Credit Card
+1088,2024-03-29,Smartwatch,Electronics,1,1219,1219,10186,West,Cash
+1089,2024-03-30,Smartwatch,Electronics,4,160,640,10048,South,PayPal
+1090,2024-03-31,Smartphone,Electronics,2,277,554,10188,West,Debit Card
+1091,2024-04-01,Smartwatch,Electronics,1,160,160,10016,South,PayPal
+1092,2024-04-02,Smartphone,Electronics,1,83,83,10073,West,Credit Card
+1093,2024-04-03,Laptop,Electronics,4,672,2688,10056,South,Credit Card
+1094,2024-04-04,Tablet,Electronics,4,1442,5768,10054,East,PayPal
+1095,2024-04-05,Tablet,Electronics,3,797,2391,10046,East,Debit Card
+1096,2024-04-06,Tablet,Electronics,1,644,644,10011,East,Debit Card
+1097,2024-04-07,Smartwatch,Electronics,3,474,1422,10061,East,Debit Card
+1098,2024-04-08,Laptop,Electronics,4,662,2648,10079,East,Credit Card
+1099,2024-04-09,Smartwatch,Electronics,4,741,2964,10082,West,PayPal
+1100,2024-04-10,Smartwatch,Electronics,2,1355,2710,10007,West,Cash
+1101,2024-04-11,Laptop,Electronics,1,1393,1393,10148,West,Credit Card
+1102,2024-04-12,Laptop,Electronics,3,364,1092,10080,South,Debit Card
+1103,2024-04-13,Laptop,Electronics,4,926,3704,10117,South,PayPal
+1104,2024-04-14,Laptop,Electronics,4,1450,5800,10197,South,Debit Card
+1105,2024-04-15,Tablet,Electronics,3,1362,4086,10199,South,Cash
+1106,2024-04-16,Headphones,Electronics,2,711,1422,10024,East,Debit Card
+1107,2024-04-17,Headphones,Electronics,4,326,1304,10088,East,Debit Card
+1108,2024-04-18,Laptop,Electronics,1,673,673,10011,East,Cash
+1109,2024-04-19,Headphones,Electronics,4,565,2260,10142,North,PayPal
+1110,2024-04-20,Headphones,Electronics,1,1423,1423,10058,West,Credit Card
+1111,2024-04-21,Laptop,Electronics,3,892,2676,10153,South,PayPal
+1112,2024-04-22,Headphones,Electronics,1,399,399,10108,South,Cash
+1113,2024-04-23,Smartwatch,Electronics,3,872,2616,10025,East,Debit Card
+1114,2024-04-24,Smartphone,Electronics,1,1210,1210,10046,South,PayPal
+1115,2024-04-25,Smartphone,Electronics,3,808,2424,10031,South,Credit Card
+1116,2024-04-26,Laptop,Electronics,1,948,948,10009,West,Cash
+1117,2024-04-27,Tablet,Electronics,2,292,584,10015,East,PayPal
+1118,2024-04-28,Laptop,Electronics,1,592,592,10198,West,Credit Card
+1119,2024-04-29,Tablet,Electronics,1,1113,1113,10144,North,Cash
+1120,2024-04-30,Smartphone,Electronics,2,278,556,10150,North,Credit Card
+1121,2024-05-01,Laptop,Electronics,4,597,2388,10025,North,Cash
+1122,2024-05-02,Monitor,Electronics,4,969,3876,10085,East,Debit Card
+1123,2024-05-03,Smartwatch,Electronics,1,1296,1296,10134,South,PayPal
+1124,2024-05-04,Headphones,Electronics,2,55,110,10013,East,Credit Card
+1125,2024-05-05,Tablet,Electronics,1,1395,1395,10078,East,Cash
+1126,2024-05-06,Monitor,Electronics,3,517,1551,10116,South,Credit Card
+1127,2024-05-07,Headphones,Electronics,3,124,372,10006,West,Credit Card
+1128,2024-05-08,Headphones,Electronics,1,53,53,10136,North,PayPal
+1129,2024-05-09,Laptop,Electronics,4,695,2780,10114,West,Debit Card
+1130,2024-05-10,Headphones,Electronics,4,167,668,10175,North,Credit Card
+1131,2024-05-11,Smartwatch,Electronics,1,930,930,10071,East,Cash
+1132,2024-05-12,Monitor,Electronics,1,553,553,10058,North,Cash
+1133,2024-05-13,Headphones,Electronics,3,996,2988,10081,East,Debit Card
+1134,2024-05-14,Laptop,Electronics,4,623,2492,10115,West,Cash
+1135,2024-05-15,Smartwatch,Electronics,1,243,243,10166,East,Debit Card
+1136,2024-05-16,Smartphone,Electronics,3,896,2688,10145,West,Cash
+1137,2024-05-17,Monitor,Electronics,4,764,3056,10186,South,PayPal
+1138,2024-05-18,Headphones,Electronics,2,1465,2930,10102,South,Credit Card
+1139,2024-05-19,Laptop,Electronics,3,1099,3297,10016,South,PayPal
+1140,2024-05-20,Smartphone,Electronics,4,222,888,10013,East,Credit Card
+1141,2024-05-21,Smartphone,Electronics,4,1373,5492,10158,South,Credit Card
+1142,2024-05-22,Tablet,Electronics,3,375,1125,10151,North,Credit Card
+1143,2024-05-23,Smartwatch,Electronics,2,1483,2966,10107,West,PayPal
+1144,2024-05-24,Headphones,Electronics,3,1191,3573,10187,West,Credit Card
+1145,2024-05-25,Laptop,Electronics,4,885,3540,10044,North,PayPal
+1146,2024-05-26,Tablet,Electronics,1,773,773,10097,East,Debit Card
+1147,2024-05-27,Smartwatch,Electronics,1,274,274,10130,East,Cash
+1148,2024-05-28,Tablet,Electronics,3,581,1743,10036,West,Cash
+1149,2024-05-29,Monitor,Electronics,4,162,648,10170,South,Credit Card
+1150,2024-05-30,Smartwatch,Electronics,1,189,189,10167,East,PayPal
+1151,2024-05-31,Smartwatch,Electronics,4,608,2432,10182,East,Cash
+1152,2024-06-01,Headphones,Electronics,3,50,150,10107,North,PayPal
+1153,2024-06-02,Smartwatch,Electronics,1,139,139,10038,North,PayPal
+1154,2024-06-03,Tablet,Electronics,4,703,2812,10014,South,Credit Card
+1155,2024-06-04,Smartwatch,Electronics,1,369,369,10119,East,Cash
+1156,2024-06-05,Headphones,Electronics,3,188,564,10003,East,Credit Card
+1157,2024-06-06,Headphones,Electronics,4,894,3576,10092,North,Credit Card
+1158,2024-06-07,Monitor,Electronics,1,308,308,10152,East,Cash
+1159,2024-06-08,Tablet,Electronics,3,951,2853,10140,West,Cash
+1160,2024-06-09,Smartphone,Electronics,1,739,739,10160,North,Debit Card
+1161,2024-06-10,Smartphone,Electronics,1,59,59,10015,South,Debit Card
+1162,2024-06-11,Smartwatch,Electronics,2,310,620,10169,North,PayPal
+1163,2024-06-12,Monitor,Electronics,2,221,442,10107,East,Cash
+1164,2024-06-13,Laptop,Electronics,3,947,2841,10125,South,Debit Card
+1165,2024-06-14,Smartwatch,Electronics,2,62,124,10193,North,PayPal
+1166,2024-06-15,Monitor,Electronics,3,1241,3723,10054,West,PayPal
+1167,2024-06-16,Tablet,Electronics,2,370,740,10169,West,PayPal
+1168,2024-06-17,Tablet,Electronics,1,1392,1392,10033,North,Debit Card
+1169,2024-06-18,Tablet,Electronics,3,378,1134,10157,West,Cash
+1170,2024-06-19,Tablet,Electronics,3,834,2502,10012,West,Credit Card
+1171,2024-06-20,Tablet,Electronics,1,826,826,10140,West,PayPal
+1172,2024-06-21,Monitor,Electronics,3,960,2880,10017,South,Debit Card
+1173,2024-06-22,Monitor,Electronics,3,1492,4476,10159,West,Debit Card
+1174,2024-06-23,Headphones,Electronics,2,1168,2336,10095,West,Credit Card
+1175,2024-06-24,Smartphone,Electronics,3,367,1101,10122,West,Credit Card
+1176,2024-06-25,Tablet,Electronics,4,285,1140,10038,South,Debit Card
+1177,2024-06-26,Laptop,Electronics,1,383,383,10045,North,Cash
+1178,2024-06-27,Monitor,Electronics,2,425,850,10028,East,Credit Card
+1179,2024-06-28,Laptop,Electronics,2,1210,2420,10189,West,Debit Card
+1180,2024-06-29,Laptop,Electronics,4,637,2548,10061,North,Credit Card
+1181,2024-06-30,Laptop,Electronics,1,562,562,10184,West,Cash
+1182,2024-07-01,Headphones,Electronics,1,1369,1369,10015,South,PayPal
+1183,2024-07-02,Monitor,Electronics,2,1393,2786,10183,North,Credit Card
+1184,2024-07-03,Laptop,Electronics,3,967,2901,10120,South,Cash
+1185,2024-07-04,Tablet,Electronics,2,1422,2844,10009,West,Debit Card
+1186,2024-07-05,Smartwatch,Electronics,1,922,922,10157,West,Credit Card
+1187,2024-07-06,Laptop,Electronics,4,1302,5208,10152,South,Credit Card
+1188,2024-07-07,Headphones,Electronics,2,319,638,10102,East,Debit Card
+1189,2024-07-08,Monitor,Electronics,1,847,847,10083,South,PayPal
+1190,2024-07-09,Headphones,Electronics,2,1364,2728,10132,West,Debit Card
+1191,2024-07-10,Laptop,Electronics,3,774,2322,10064,South,Credit Card
+1192,2024-07-11,Monitor,Electronics,2,1238,2476,10176,East,Debit Card
+1193,2024-07-12,Smartwatch,Electronics,2,54,108,10002,South,Cash
+1194,2024-07-13,Laptop,Electronics,1,900,900,10172,East,Debit Card
+1195,2024-07-14,Headphones,Electronics,1,1452,1452,10141,East,Credit Card
+1196,2024-07-15,Smartphone,Electronics,1,127,127,10119,South,Debit Card
+1197,2024-07-16,Tablet,Electronics,2,1483,2966,10157,South,PayPal
+1198,2024-07-17,Headphones,Electronics,3,623,1869,10067,North,Debit Card
+1199,2024-07-18,Monitor,Electronics,4,181,724,10145,West,PayPal
+1200,2024-07-19,Laptop,Electronics,4,650,2600,10189,East,Cash
+1201,2024-07-20,Tablet,Electronics,1,1115,1115,10036,North,PayPal
+1202,2024-07-21,Laptop,Electronics,1,138,138,10152,South,Debit Card
+1203,2024-07-22,Monitor,Electronics,2,451,902,10175,West,Credit Card
+1204,2024-07-23,Laptop,Electronics,4,345,1380,10192,North,PayPal
+1205,2024-07-24,Smartphone,Electronics,1,1368,1368,10180,East,Cash
+1206,2024-07-25,Tablet,Electronics,3,665,1995,10072,North,PayPal
+1207,2024-07-26,Tablet,Electronics,3,849,2547,10142,East,PayPal
+1208,2024-07-27,Monitor,Electronics,1,471,471,10048,South,PayPal
+1209,2024-07-28,Smartphone,Electronics,1,1096,1096,10120,West,Cash
+1210,2024-07-29,Headphones,Electronics,4,624,2496,10087,West,Debit Card
+1211,2024-07-30,Laptop,Electronics,4,192,768,10195,West,PayPal
+1212,2024-07-31,Smartwatch,Electronics,2,1042,2084,10139,South,PayPal
+1213,2024-08-01,Laptop,Electronics,4,714,2856,10186,East,Credit Card
+1214,2024-08-02,Laptop,Electronics,3,194,582,10036,South,Cash
+1215,2024-08-03,Headphones,Electronics,3,1298,3894,10060,West,PayPal
+1216,2024-08-04,Laptop,Electronics,1,1056,1056,10170,South,Cash
+1217,2024-08-05,Smartphone,Electronics,4,552,2208,10123,South,PayPal
+1218,2024-08-06,Smartphone,Electronics,2,870,1740,10197,South,Debit Card
+1219,2024-08-07,Tablet,Electronics,3,153,459,10038,East,Debit Card
+1220,2024-08-08,Monitor,Electronics,3,1112,3336,10183,North,PayPal
+1221,2024-08-09,Smartwatch,Electronics,2,247,494,10062,North,Debit Card
+1222,2024-08-10,Laptop,Electronics,2,628,1256,10045,South,PayPal
+1223,2024-08-11,Laptop,Electronics,3,440,1320,10087,North,Debit Card
+1224,2024-08-12,Headphones,Electronics,3,1252,3756,10010,North,Credit Card
+1225,2024-08-13,Monitor,Electronics,2,603,1206,10061,South,Credit Card
+1226,2024-08-14,Smartphone,Electronics,3,1088,3264,10076,South,Credit Card
+1227,2024-08-15,Smartwatch,Electronics,1,1362,1362,10152,West,Cash
+1228,2024-08-16,Tablet,Electronics,1,527,527,10198,North,Cash
+1229,2024-08-17,Smartphone,Electronics,2,1304,2608,10051,East,Credit Card
+1230,2024-08-18,Monitor,Electronics,4,972,3888,10003,South,Cash
+1231,2024-08-19,Tablet,Electronics,2,469,938,10058,West,Debit Card
+1232,2024-08-20,Headphones,Electronics,2,206,412,10071,East,PayPal
+1233,2024-08-21,Headphones,Electronics,4,599,2396,10147,North,PayPal
+1234,2024-08-22,Laptop,Electronics,4,1170,4680,10092,West,PayPal
+1235,2024-08-23,Monitor,Electronics,4,1070,4280,10062,South,Credit Card
+1236,2024-08-24,Smartwatch,Electronics,1,1046,1046,10053,East,Cash
+1237,2024-08-25,Tablet,Electronics,3,1484,4452,10116,South,Debit Card
+1238,2024-08-26,Smartphone,Electronics,1,1000,1000,10109,North,Debit Card
+1239,2024-08-27,Monitor,Electronics,3,338,1014,10073,East,Credit Card
+1240,2024-08-28,Monitor,Electronics,1,1327,1327,10106,North,Debit Card
+1241,2024-08-29,Headphones,Electronics,3,245,735,10056,North,Debit Card
+1242,2024-08-30,Laptop,Electronics,1,647,647,10168,West,Debit Card
+1243,2024-08-31,Laptop,Electronics,4,566,2264,10002,South,Debit Card
+1244,2024-09-01,Tablet,Electronics,2,914,1828,10119,East,Cash
+1245,2024-09-02,Headphones,Electronics,1,1191,1191,10005,North,Debit Card
+1246,2024-09-03,Monitor,Electronics,3,855,2565,10004,North,PayPal
+1247,2024-09-04,Smartwatch,Electronics,4,1232,4928,10004,East,Credit Card
+1248,2024-09-05,Headphones,Electronics,1,864,864,10053,North,Cash
+1249,2024-09-06,Tablet,Electronics,1,277,277,10046,West,Debit Card
+1250,2024-09-07,Tablet,Electronics,4,265,1060,10176,West,Cash
+1251,2024-09-08,Headphones,Electronics,1,997,997,10008,West,Debit Card
+1252,2024-09-09,Tablet,Electronics,2,64,128,10098,West,PayPal
+1253,2024-09-10,Headphones,Electronics,1,1230,1230,10019,North,Credit Card
+1254,2024-09-11,Smartphone,Electronics,2,1334,2668,10121,East,Debit Card
+1255,2024-09-12,Headphones,Electronics,2,1230,2460,10060,East,Debit Card
+1256,2024-09-13,Headphones,Electronics,4,96,384,10122,East,Debit Card
+1257,2024-09-14,Tablet,Electronics,1,373,373,10162,East,Debit Card
+1258,2024-09-15,Tablet,Electronics,4,893,3572,10177,South,Credit Card
+1259,2024-09-16,Laptop,Electronics,1,179,179,10081,East,Credit Card
+1260,2024-09-17,Laptop,Electronics,1,1484,1484,10061,South,PayPal
+1261,2024-09-18,Smartphone,Electronics,3,144,432,10144,South,Credit Card
+1262,2024-09-19,Laptop,Electronics,1,676,676,10002,West,Debit Card
+1263,2024-09-20,Headphones,Electronics,4,804,3216,10159,South,PayPal
+1264,2024-09-21,Tablet,Electronics,2,1365,2730,10012,North,PayPal
+1265,2024-09-22,Laptop,Electronics,1,843,843,10119,South,PayPal
+1266,2024-09-23,Laptop,Electronics,3,1356,4068,10124,West,Debit Card
+1267,2024-09-24,Smartphone,Electronics,4,118,472,10088,South,Cash
+1268,2024-09-25,Monitor,Electronics,1,60,60,10072,North,Debit Card
+1269,2024-09-26,Smartphone,Electronics,4,1327,5308,10067,North,Credit Card
+1270,2024-09-27,Headphones,Electronics,3,921,2763,10141,North,Credit Card
+1271,2024-09-28,Tablet,Electronics,3,599,1797,10100,West,Debit Card
+1272,2024-09-29,Smartphone,Electronics,4,1207,4828,10097,West,Debit Card
+1273,2024-09-30,Laptop,Electronics,1,761,761,10010,East,PayPal
+1274,2024-10-01,Tablet,Electronics,2,72,144,10104,West,Debit Card
+1275,2024-10-02,Tablet,Electronics,3,864,2592,10183,North,PayPal
+1276,2024-10-03,Laptop,Electronics,1,395,395,10066,North,Credit Card
+1277,2024-10-04,Smartphone,Electronics,1,351,351,10122,West,PayPal
+1278,2024-10-05,Laptop,Electronics,2,412,824,10028,South,Debit Card
+1279,2024-10-06,Monitor,Electronics,3,445,1335,10136,West,Credit Card
+1280,2024-10-07,Tablet,Electronics,3,267,801,10194,West,Cash
+1281,2024-10-08,Smartwatch,Electronics,1,190,190,10152,North,PayPal
+1282,2024-10-09,Smartwatch,Electronics,1,1007,1007,10075,East,Credit Card
+1283,2024-10-10,Headphones,Electronics,2,1283,2566,10169,North,PayPal
+1284,2024-10-11,Laptop,Electronics,2,1034,2068,10008,East,Credit Card
+1285,2024-10-12,Laptop,Electronics,3,1042,3126,10039,North,Credit Card
+1286,2024-10-13,Headphones,Electronics,4,877,3508,10024,West,PayPal
+1287,2024-10-14,Headphones,Electronics,3,732,2196,10004,North,Cash
+1288,2024-10-15,Headphones,Electronics,1,1053,1053,10138,North,Credit Card
+1289,2024-10-16,Tablet,Electronics,3,405,1215,10186,North,Credit Card
+1290,2024-10-17,Monitor,Electronics,4,1057,4228,10123,West,Credit Card
+1291,2024-10-18,Laptop,Electronics,2,1397,2794,10037,West,Cash
+1292,2024-10-19,Tablet,Electronics,4,1206,4824,10071,West,Cash
+1293,2024-10-20,Headphones,Electronics,4,937,3748,10132,West,Debit Card
+1294,2024-10-21,Laptop,Electronics,4,176,704,10175,East,PayPal
+1295,2024-10-22,Tablet,Electronics,2,1179,2358,10089,East,Cash
+1296,2024-10-23,Monitor,Electronics,4,1058,4232,10145,South,PayPal
+1297,2024-10-24,Tablet,Electronics,4,653,2612,10197,West,Debit Card
+1298,2024-10-25,Monitor,Electronics,4,1451,5804,10036,East,PayPal
+1299,2024-10-26,Headphones,Electronics,1,1063,1063,10059,North,Cash
+1300,2024-10-27,Monitor,Electronics,4,100,400,10175,West,PayPal
+1301,2024-10-28,Laptop,Electronics,2,1102,2204,10027,South,Cash
+1302,2024-10-29,Headphones,Electronics,4,1369,5476,10196,South,PayPal
+1303,2024-10-30,Laptop,Electronics,4,1370,5480,10080,South,Cash
+1304,2024-10-31,Smartwatch,Electronics,2,828,1656,10113,North,Cash
+1305,2024-11-01,Smartphone,Electronics,4,1480,5920,10039,East,PayPal
+1306,2024-11-02,Monitor,Electronics,2,863,1726,10044,North,Debit Card
+1307,2024-11-03,Smartphone,Electronics,4,1478,5912,10061,West,Credit Card
+1308,2024-11-04,Smartphone,Electronics,2,1419,2838,10092,South,Debit Card
+1309,2024-11-05,Monitor,Electronics,4,469,1876,10114,North,PayPal
+1310,2024-11-06,Headphones,Electronics,4,1255,5020,10185,North,Debit Card
+1311,2024-11-07,Smartwatch,Electronics,1,1032,1032,10066,East,Cash
+1312,2024-11-08,Laptop,Electronics,1,874,874,10055,East,Credit Card
+1313,2024-11-09,Tablet,Electronics,4,1074,4296,10039,South,PayPal
+1314,2024-11-10,Laptop,Electronics,4,616,2464,10097,North,PayPal
+1315,2024-11-11,Tablet,Electronics,3,420,1260,10039,North,PayPal
+1316,2024-11-12,Laptop,Electronics,2,985,1970,10090,East,Credit Card
+1317,2024-11-13,Monitor,Electronics,3,710,2130,10032,North,Cash
+1318,2024-11-14,Smartwatch,Electronics,1,1018,1018,10005,North,PayPal
+1319,2024-11-15,Tablet,Electronics,1,1382,1382,10146,North,Debit Card
+1320,2024-11-16,Headphones,Electronics,1,1210,1210,10079,East,PayPal
+1321,2024-11-17,Laptop,Electronics,1,251,251,10167,South,PayPal
+1322,2024-11-18,Laptop,Electronics,4,362,1448,10091,West,PayPal
+1323,2024-11-19,Tablet,Electronics,1,166,166,10096,South,PayPal
+1324,2024-11-20,Headphones,Electronics,4,986,3944,10058,West,Cash
+1325,2024-11-21,Headphones,Electronics,4,624,2496,10058,North,Debit Card
+1326,2024-11-22,Monitor,Electronics,1,293,293,10047,South,Cash
+1327,2024-11-23,Monitor,Electronics,1,586,586,10168,West,Debit Card
+1328,2024-11-24,Monitor,Electronics,2,124,248,10012,East,PayPal
+1329,2024-11-25,Monitor,Electronics,3,435,1305,10106,East,Credit Card
+1330,2024-11-26,Monitor,Electronics,1,1283,1283,10044,South,Cash
+1331,2024-11-27,Monitor,Electronics,2,524,1048,10088,South,Credit Card
+1332,2024-11-28,Smartwatch,Electronics,2,467,934,10180,North,Cash
+1333,2024-11-29,Headphones,Electronics,3,396,1188,10169,South,PayPal
+1334,2024-11-30,Monitor,Electronics,4,689,2756,10099,North,Cash
+1335,2024-12-01,Headphones,Electronics,1,988,988,10190,North,PayPal
+1336,2024-12-02,Headphones,Electronics,3,1004,3012,10154,East,Cash
+1337,2024-12-03,Smartphone,Electronics,1,925,925,10165,East,PayPal
+1338,2024-12-04,Smartwatch,Electronics,2,812,1624,10187,West,PayPal
+1339,2024-12-05,Monitor,Electronics,2,1252,2504,10006,East,Debit Card
+1340,2024-12-06,Laptop,Electronics,4,1255,5020,10132,East,PayPal
+1341,2024-12-07,Tablet,Electronics,2,713,1426,10044,South,Debit Card
+1342,2024-12-08,Laptop,Electronics,2,74,148,10057,East,PayPal
+1343,2024-12-09,Smartwatch,Electronics,3,1253,3759,10030,West,Credit Card
+1344,2024-12-10,Tablet,Electronics,1,759,759,10022,South,PayPal
+1345,2024-12-11,Smartwatch,Electronics,1,1234,1234,10169,West,Credit Card
+1346,2024-12-12,Headphones,Electronics,3,226,678,10137,East,Credit Card
+1347,2024-12-13,Tablet,Electronics,4,334,1336,10159,West,PayPal
+1348,2024-12-14,Headphones,Electronics,1,112,112,10106,South,Credit Card
+1349,2024-12-15,Laptop,Electronics,2,1052,2104,10180,North,Debit Card
+1350,2024-12-16,Laptop,Electronics,1,711,711,10157,West,Cash
+1351,2024-12-17,Tablet,Electronics,2,715,1430,10038,West,PayPal
+1352,2024-12-18,Tablet,Electronics,4,205,820,10158,South,Credit Card
+1353,2024-12-19,Monitor,Electronics,3,1122,3366,10081,South,PayPal
+1354,2024-12-20,Smartwatch,Electronics,1,1016,1016,10099,West,Debit Card
+1355,2024-12-21,Monitor,Electronics,3,898,2694,10001,East,PayPal
+1356,2024-12-22,Smartwatch,Electronics,1,1157,1157,10076,West,PayPal
+1357,2024-12-23,Monitor,Electronics,2,1434,2868,10011,South,Credit Card
+1358,2024-12-24,Headphones,Electronics,3,738,2214,10038,North,Debit Card
+1359,2024-12-25,Tablet,Electronics,1,197,197,10193,North,Cash
+1360,2024-12-26,Laptop,Electronics,2,391,782,10012,East,Cash
+1361,2024-12-27,Smartwatch,Electronics,3,525,1575,10045,West,Credit Card
+1362,2024-12-28,Smartwatch,Electronics,3,1136,3408,10154,North,PayPal
+1363,2024-12-29,Laptop,Electronics,1,1433,1433,10112,West,Credit Card
+1364,2024-12-30,Monitor,Electronics,1,610,610,10016,South,Credit Card
+1365,2024-12-31,Smartwatch,Electronics,1,376,376,10103,North,Credit Card
+1366,2025-01-01,Headphones,Electronics,2,1214,2428,10097,East,PayPal
+1367,2025-01-02,Tablet,Electronics,1,1039,1039,10187,South,Debit Card
+1368,2025-01-03,Laptop,Electronics,3,264,792,10191,East,Credit Card
+1369,2025-01-04,Tablet,Electronics,3,484,1452,10087,South,PayPal
+1370,2025-01-05,Smartwatch,Electronics,1,1001,1001,10108,North,Debit Card
+1371,2025-01-06,Smartwatch,Electronics,1,772,772,10162,East,Credit Card
+1372,2025-01-07,Laptop,Electronics,4,1391,5564,10069,East,Cash
+1373,2025-01-08,Headphones,Electronics,3,81,243,10157,South,Debit Card
+1374,2025-01-09,Smartphone,Electronics,2,719,1438,10198,East,Credit Card
+1375,2025-01-10,Laptop,Electronics,4,334,1336,10073,South,Debit Card
+1376,2025-01-11,Smartphone,Electronics,1,1378,1378,10062,South,Debit Card
+1377,2025-01-12,Monitor,Electronics,1,478,478,10155,South,Debit Card
+1378,2025-01-13,Smartphone,Electronics,3,335,1005,10059,South,Debit Card
+1379,2025-01-14,Headphones,Electronics,1,1217,1217,10078,North,Debit Card
+1380,2025-01-15,Monitor,Electronics,2,1497,2994,10036,South,Debit Card
+1381,2025-01-16,Smartphone,Electronics,3,1092,3276,10021,West,Credit Card
+1382,2025-01-17,Monitor,Electronics,1,67,67,10195,East,Cash
+1383,2025-01-18,Smartphone,Electronics,3,818,2454,10147,West,PayPal
+1384,2025-01-19,Headphones,Electronics,1,639,639,10095,North,Debit Card
+1385,2025-01-20,Smartphone,Electronics,1,1444,1444,10067,West,PayPal
+1386,2025-01-21,Smartphone,Electronics,1,1248,1248,10191,East,Credit Card
+1387,2025-01-22,Smartphone,Electronics,2,1059,2118,10016,West,Debit Card
+1388,2025-01-23,Laptop,Electronics,2,243,486,10011,North,Cash
+1389,2025-01-24,Laptop,Electronics,3,551,1653,10149,South,PayPal
+1390,2025-01-25,Laptop,Electronics,1,1037,1037,10144,West,Debit Card
+1391,2025-01-26,Headphones,Electronics,1,1186,1186,10137,North,Credit Card
+1392,2025-01-27,Monitor,Electronics,2,163,326,10117,North,Cash
+1393,2025-01-28,Smartwatch,Electronics,1,1295,1295,10192,East,PayPal
+1394,2025-01-29,Smartphone,Electronics,2,996,1992,10021,East,PayPal
+1395,2025-01-30,Smartphone,Electronics,1,880,880,10119,West,Debit Card
+1396,2025-01-31,Headphones,Electronics,3,1337,4011,10049,South,Cash
+1397,2025-02-01,Smartphone,Electronics,1,974,974,10013,North,Cash
+1398,2025-02-02,Laptop,Electronics,1,104,104,10191,West,Cash
+1399,2025-02-03,Smartwatch,Electronics,4,849,3396,10174,North,Cash
+1400,2025-02-04,Tablet,Electronics,2,827,1654,10028,North,Credit Card
+1401,2025-02-05,Smartphone,Electronics,1,211,211,10163,South,Cash
+1402,2025-02-06,Laptop,Electronics,1,1453,1453,10179,South,PayPal
+1403,2025-02-07,Tablet,Electronics,4,136,544,10124,West,PayPal
+1404,2025-02-08,Smartwatch,Electronics,4,104,416,10006,South,Credit Card
+1405,2025-02-09,Tablet,Electronics,2,1251,2502,10028,South,PayPal
+1406,2025-02-10,Laptop,Electronics,4,1464,5856,10138,West,PayPal
+1407,2025-02-11,Monitor,Electronics,3,1422,4266,10032,South,Cash
+1408,2025-02-12,Monitor,Electronics,4,1081,4324,10133,East,PayPal
+1409,2025-02-13,Tablet,Electronics,3,882,2646,10110,North,Credit Card
+1410,2025-02-14,Headphones,Electronics,2,362,724,10078,North,Cash
+1411,2025-02-15,Tablet,Electronics,2,808,1616,10159,North,Debit Card
+1412,2025-02-16,Smartphone,Electronics,2,492,984,10178,North,Cash
+1413,2025-02-17,Smartphone,Electronics,2,377,754,10057,West,Credit Card
+1414,2025-02-18,Monitor,Electronics,2,1127,2254,10025,North,Cash
+1415,2025-02-19,Headphones,Electronics,3,810,2430,10173,North,Cash
+1416,2025-02-20,Laptop,Electronics,3,1312,3936,10028,North,Credit Card
+1417,2025-02-21,Smartphone,Electronics,2,1302,2604,10003,North,Cash
+1418,2025-02-22,Monitor,Electronics,4,628,2512,10098,East,Credit Card
+1419,2025-02-23,Smartwatch,Electronics,1,1124,1124,10140,North,Credit Card
+1420,2025-02-24,Monitor,Electronics,2,1056,2112,10038,East,Debit Card
+1421,2025-02-25,Smartphone,Electronics,4,1337,5348,10014,West,PayPal
+1422,2025-02-26,Smartphone,Electronics,1,1491,1491,10118,South,PayPal
+1423,2025-02-27,Monitor,Electronics,2,145,290,10028,North,Cash
+1424,2025-02-28,Laptop,Electronics,2,1161,2322,10156,South,Cash
+1425,2025-03-01,Tablet,Electronics,3,1151,3453,10074,South,Debit Card
+1426,2025-03-02,Smartphone,Electronics,1,1361,1361,10115,West,Debit Card
+1427,2025-03-03,Monitor,Electronics,1,1193,1193,10031,South,Debit Card
+1428,2025-03-04,Monitor,Electronics,4,863,3452,10129,East,Credit Card
+1429,2025-03-05,Headphones,Electronics,3,540,1620,10174,South,Debit Card
+1430,2025-03-06,Tablet,Electronics,3,501,1503,10083,South,Debit Card
+1431,2025-03-07,Smartwatch,Electronics,3,214,642,10021,South,Cash
+1432,2025-03-08,Laptop,Electronics,3,231,693,10026,North,Debit Card
+1433,2025-03-09,Smartwatch,Electronics,1,518,518,10194,North,Credit Card
+1434,2025-03-10,Tablet,Electronics,1,959,959,10080,East,Credit Card
+1435,2025-03-11,Tablet,Electronics,2,784,1568,10125,East,Cash
+1436,2025-03-12,Tablet,Electronics,2,872,1744,10183,North,Debit Card
+1437,2025-03-13,Smartwatch,Electronics,3,993,2979,10091,East,Debit Card
+1438,2025-03-14,Tablet,Electronics,3,56,168,10020,North,Credit Card
+1439,2025-03-15,Monitor,Electronics,3,379,1137,10046,West,Debit Card
+1440,2025-03-16,Smartwatch,Electronics,2,824,1648,10100,South,Debit Card
+1441,2025-03-17,Tablet,Electronics,4,200,800,10186,South,Debit Card
+1442,2025-03-18,Monitor,Electronics,4,1158,4632,10083,East,PayPal
+1443,2025-03-19,Headphones,Electronics,2,196,392,10005,North,Cash
+1444,2025-03-20,Tablet,Electronics,2,1454,2908,10146,North,PayPal
+1445,2025-03-21,Smartwatch,Electronics,2,964,1928,10184,East,Cash
+1446,2025-03-22,Smartphone,Electronics,2,1358,2716,10196,North,Credit Card
+1447,2025-03-23,Tablet,Electronics,2,749,1498,10130,West,Debit Card
+1448,2025-03-24,Smartphone,Electronics,2,131,262,10000,South,Cash
+1449,2025-03-25,Monitor,Electronics,3,563,1689,10057,East,PayPal
+1450,2025-03-26,Headphones,Electronics,3,864,2592,10123,East,Debit Card
+1451,2025-03-27,Laptop,Electronics,3,758,2274,10165,North,Credit Card
+1452,2025-03-28,Headphones,Electronics,3,795,2385,10014,East,Cash
+1453,2025-03-29,Tablet,Electronics,2,1072,2144,10161,West,Cash
+1454,2025-03-30,Smartphone,Electronics,4,1459,5836,10188,North,Cash
+1455,2025-03-31,Smartphone,Electronics,1,756,756,10162,North,Debit Card
+1456,2025-04-01,Smartwatch,Electronics,2,520,1040,10063,North,PayPal
+1457,2025-04-02,Smartphone,Electronics,1,1192,1192,10024,North,PayPal
+1458,2025-04-03,Smartwatch,Electronics,4,445,1780,10023,West,Cash
+1459,2025-04-04,Monitor,Electronics,3,310,930,10011,North,Credit Card
+1460,2025-04-05,Laptop,Electronics,4,854,3416,10017,East,Credit Card
+1461,2025-04-06,Tablet,Electronics,2,983,1966,10014,West,PayPal
+1462,2025-04-07,Smartwatch,Electronics,3,1329,3987,10026,South,Credit Card
+1463,2025-04-08,Laptop,Electronics,2,954,1908,10071,South,PayPal
+1464,2025-04-09,Smartphone,Electronics,3,1299,3897,10059,East,Cash
+1465,2025-04-10,Smartphone,Electronics,1,1126,1126,10173,East,PayPal
+1466,2025-04-11,Laptop,Electronics,1,989,989,10144,West,PayPal
+1467,2025-04-12,Smartphone,Electronics,1,903,903,10092,South,Cash
+1468,2025-04-13,Monitor,Electronics,4,1437,5748,10052,South,Credit Card
+1469,2025-04-14,Monitor,Electronics,2,1353,2706,10007,South,PayPal
+1470,2025-04-15,Laptop,Electronics,4,642,2568,10078,South,PayPal
+1471,2025-04-16,Smartwatch,Electronics,1,763,763,10026,South,Cash
+1472,2025-04-17,Smartwatch,Electronics,2,1231,2462,10173,North,Credit Card
+1473,2025-04-18,Laptop,Electronics,1,681,681,10049,East,PayPal
+1474,2025-04-19,Smartwatch,Electronics,4,108,432,10198,North,Cash
+1475,2025-04-20,Smartwatch,Electronics,4,177,708,10130,South,PayPal
+1476,2025-04-21,Monitor,Electronics,4,785,3140,10092,West,Debit Card
+1477,2025-04-22,Smartwatch,Electronics,1,770,770,10191,West,Cash
+1478,2025-04-23,Headphones,Electronics,2,1188,2376,10171,South,Credit Card
+1479,2025-04-24,Tablet,Electronics,2,1282,2564,10180,South,Credit Card
+1480,2025-04-25,Smartphone,Electronics,1,575,575,10023,West,Credit Card
+1481,2025-04-26,Headphones,Electronics,2,570,1140,10059,North,Credit Card
+1482,2025-04-27,Smartwatch,Electronics,1,601,601,10121,North,PayPal
+1483,2025-04-28,Monitor,Electronics,2,286,572,10130,South,PayPal
+1484,2025-04-29,Laptop,Electronics,3,1354,4062,10147,North,Credit Card
+1485,2025-04-30,Smartwatch,Electronics,3,1432,4296,10045,West,Credit Card
+1486,2025-05-01,Monitor,Electronics,4,1274,5096,10014,North,Credit Card
+1487,2025-05-02,Tablet,Electronics,3,1351,4053,10152,South,PayPal
+1488,2025-05-03,Smartwatch,Electronics,3,1308,3924,10198,West,Credit Card
+1489,2025-05-04,Laptop,Electronics,3,543,1629,10016,North,Credit Card
+1490,2025-05-05,Monitor,Electronics,1,53,53,10125,East,Debit Card
+1491,2025-05-06,Monitor,Electronics,3,715,2145,10083,West,Debit Card
+1492,2025-05-07,Monitor,Electronics,3,491,1473,10008,West,Credit Card
+1493,2025-05-08,Tablet,Electronics,4,78,312,10165,East,Cash
+1494,2025-05-09,Smartwatch,Electronics,3,1182,3546,10175,East,Credit Card
+1495,2025-05-10,Tablet,Electronics,3,659,1977,10187,West,Debit Card
+1496,2025-05-11,Smartphone,Electronics,2,854,1708,10062,East,Cash
+1497,2025-05-12,Smartphone,Electronics,4,124,496,10116,South,Cash
+1498,2025-05-13,Smartwatch,Electronics,4,887,3548,10129,South,Credit Card
+1499,2025-05-14,Tablet,Electronics,4,1219,4876,10087,South,Debit Card
